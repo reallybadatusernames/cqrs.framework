@@ -1,7 +1,4 @@
 ﻿using cqrs.framework.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace cqrs.framework.Queries.Users
 {
